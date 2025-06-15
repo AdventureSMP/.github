@@ -1,6 +1,6 @@
 # UnitySMP Repo
 
-![Frame 23](https://github.com/user-attachments/assets/ecf1322b-f125-493e-a096-749755838273)
+![Frame 23](https://github.com/user-attachments/assets/7fd4b610-6ef5-4023-ad9d-5b33774c76f0)
 
 Dieses Repository enthält alle öffentlichen und frei nutzbaren Dokumente zur Erstellung von Inhalten im Zusammenhang mit UnitySMP.
 
